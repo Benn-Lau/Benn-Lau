@@ -34,9 +34,7 @@
 <a href="https://alpinelinux.org/">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </a>
-
-<br/>
-
+<br />
 <details>
 <summary><h3>My ❤️ Tools & Library :</h3></summary>
 
@@ -100,7 +98,7 @@
   <img src="https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white" alt="Linode"/>
 </a>
 </details>
-<br/>
+
 <details>
 <summary><h3>Currenly Working On:</h3></summary>
 
