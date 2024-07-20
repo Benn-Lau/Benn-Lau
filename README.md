@@ -10,7 +10,7 @@
 
 ## My Tech Stack:
 
-<a href="https://nextjs.org/docs">
+<a href="https://nextjs.org/docs" class="color:inherit" >
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
 </a>
 <a href="https://nodejs.org/en">
