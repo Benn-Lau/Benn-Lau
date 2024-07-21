@@ -1,7 +1,7 @@
 # 💫 About Me
 
 - Fullstack WebDev who loves to code and debug my own mistake
-- Type save language lover
+- Type safe language lover
 - Hate corpo bullshit jargon
 - Crypto Enthusiast
 - Your Tech pal
